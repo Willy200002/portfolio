@@ -2,10 +2,10 @@
 ### Portfolio Responsive Complete
 
 - **Site web de portfolio personnel réactif HTML, CSS et JavaScript**.
-- Contient des animations lors du défilement.
-- Défilement fluide dans chaque section.
-- Développé d’abord avec la méthodologie Mobile First, puis pour desktop.
-- Compatible avec tous les appareils mobiles et avec une interface utilisateur belle et agréable.
+- **Contient des animations lors du défilement**.
+- **Défilement fluide dans chaque section**.
+- **Développé d’abord avec la méthodologie Mobile First, puis pour desktop**.
+- **Compatible avec tous les appareils mobiles et avec une interface utilisateur belle et agréable**.
 
 ##🛠️ Technologies utilisées
 1. **HTML5** - Structure du site
@@ -24,3 +24,5 @@ https://github.com/Willy200002/portfolio.git
 1. **Ajout d’un mode sombre** 🌙
 2. **Plus d'animations et d'effets visuels** ✨
 3. **Intégration d’un backend pour sauvegarder les données** 🔄
+
+**✨ Créé avec passion et du JavaScript ! ✨**
